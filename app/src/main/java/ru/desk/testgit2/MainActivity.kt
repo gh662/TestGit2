@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //первое обновиление тестирование коммита 2
         //тестирование обновление и заливка коммита 3
+        //тестирование обновление и заливка коммита 4
     }
 }
